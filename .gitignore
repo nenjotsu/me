@@ -104,4 +104,6 @@ dist
 .tern-port
 public/
 public/*
+public/**
 public/*.*
+public/404.html
