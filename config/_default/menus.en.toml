@@ -26,8 +26,9 @@
   weight = 30
 
 [[main]]
-  identifier = "web"
-  pre = "link"
+  # identifier = "web"
+  name = "Market Analysis"
+  # pre = "link"
   url = "https://nenjotsu.github.io/blog/"
   weight = 40
 
