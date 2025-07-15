@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "Categories"
 date: 2025-07-14
 draft: false
 
@@ -8,7 +8,7 @@ showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
-showTableOfContents : true
+showTableOfContents : false
 showTaxonomies : false 
 showWordCount : false
 showSummary : false

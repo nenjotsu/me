@@ -21,21 +21,26 @@
   weight = 20
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 30
+
+[[main]]
   identifier = "web"
   pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
+  url = "https://nenjotsu.github.io/blog/"
   weight = 40
 
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/nenjotsu"
   weight = 50
 
 [[main]]
   identifier = "twitter"
   pre = "twitter"
-  url = "https://twitter.com/burufugu"
+  url = "https://twitter.com/nenjotsu"
   weight = 60
 
 
