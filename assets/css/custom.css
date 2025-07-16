@@ -1,0 +1,13 @@
+/* --color-border-default: #283357fa; */
+/* --color-border-muted: #e7e7e7;
+--color-border-subtle: #e7e7e7; */
+
+body {
+  margin: 0px auto !important;
+}
+
+.dark\:border-neutral-700 {
+    &:is(.dark *) {
+        border-color: #283357fa !important;
+    }
+}
