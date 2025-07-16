@@ -1,30 +1,150 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Red Blowfish</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Red Blowfish</description>
+    <title>Categories on nenjo.tech</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on nenjo.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Red Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 nenjo.tech</copyright>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Blog</title>
-      <link>//localhost:1313/categories/blog/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Expert Advisor</title>
+      <link>http://localhost:1313/categories/expert-advisor/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/blog/</guid>
+      <guid>http://localhost:1313/categories/expert-advisor/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Post</title>
-      <link>//localhost:1313/categories/post/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Golang</title>
+      <link>http://localhost:1313/categories/golang/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/post/</guid>
+      <guid>http://localhost:1313/categories/golang/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mq5</title>
+      <link>http://localhost:1313/categories/mq5/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mq5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mt5</title>
+      <link>http://localhost:1313/categories/mt5/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mt5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/categories/python/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/categories/software-engineering/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/software-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tradingbot</title>
+      <link>http://localhost:1313/categories/tradingbot/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tradingbot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Back-End</title>
+      <link>http://localhost:1313/categories/back-end/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/back-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>http://localhost:1313/categories/design-patterns/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/design-patterns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/categories/go/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Front-End</title>
+      <link>http://localhost:1313/categories/front-end/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/front-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/categories/javascript/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Svelte</title>
+      <link>http://localhost:1313/categories/svelte/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/svelte/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>http://localhost:1313/categories/typescript/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/typescript/</guid>
       <description></description>
       
     </item>

@@ -1,52 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Red Blowfish</title>
+    <title>nenjo.tech</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Red Blowfish</description>
+    <description>Recent content on nenjo.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Red Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 nenjo.tech</copyright>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-one/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Why Most Traders Fail at Automation (And What Engineers Can Do About It)</title>
+      <link>http://localhost:1313/posts/why-most-traders-fail-at-automation-and-what-engineers-can-do-about-it/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-one/cover.png" />
+      <guid>http://localhost:1313/posts/why-most-traders-fail-at-automation-and-what-engineers-can-do-about-it/</guid>
+      <description>Not every strategy will make money. But every good system should work exactly as designed, even when it fails.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-most-traders-fail-at-automation-and-what-engineers-can-do-about-it/cover.jpg" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-three/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>How to Implement SOLID Principles in Golang for Automated Trading Bots</title>
+      <link>http://localhost:1313/posts/how-to-implement-solid-principles-in-golang-for-automated-trading-bots/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-three/cover.png" />
+      <guid>http://localhost:1313/posts/how-to-implement-solid-principles-in-golang-for-automated-trading-bots/</guid>
+      <description>The SOLID principles aren’t just buzzwords; they’re the Avengers of coding practices, ready to save your bot from disaster.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-implement-solid-principles-in-golang-for-automated-trading-bots/cover.jpg" />
     </item>
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-two/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Why I Love TypeScript in Svelte, and the Beauty of SvelteKit Compared to Other JS Frameworks</title>
+      <link>http://localhost:1313/posts/why-i-love-typescript-in-svelte-and-the-beauty-of-sveltekit-compared-to-other-js-frameworks/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      
-    </item>
-    
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-four/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-four/cover.png" />
+      <guid>http://localhost:1313/posts/why-i-love-typescript-in-svelte-and-the-beauty-of-sveltekit-compared-to-other-js-frameworks/</guid>
+      <description>The combination of SvelteKit and TypeScript represents the best of both worlds — a modern framework designed for simplicity and speed, paired with a robust type system that ensures reliability and scalability.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-i-love-typescript-in-svelte-and-the-beauty-of-sveltekit-compared-to-other-js-frameworks/cover.jpg" />
     </item>
     
   </channel>
