@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Danger of Using AI in Trading: Why Blind Automation Is Riskier Than You Think</title>
+      <link>http://localhost:1313/posts/the-danger-of-using-ai-in-trading-why-blind-automation-is-riskier-than-you-think/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-danger-of-using-ai-in-trading-why-blind-automation-is-riskier-than-you-think/</guid>
+      <description>One of the biggest risks with AI-generated strategies is the illusion of effectiveness.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-danger-of-using-ai-in-trading-why-blind-automation-is-riskier-than-you-think/cover.jpg" />
+    </item>
     
     <item>
       <title>Why Most Traders Fail at Automation (And What Engineers Can Do About It)</title>
@@ -35,7 +45,7 @@
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/why-i-love-typescript-in-svelte-and-the-beauty-of-sveltekit-compared-to-other-js-frameworks/</guid>
-      <description>The combination of SvelteKit and TypeScript represents the best of both worlds — a modern framework designed for simplicity and speed, paired with a robust type system that ensures reliability and scalability.</description>
+      <description>The combination of SvelteKit and TypeScript represents the best of both worlds that ensures reliability and scalability.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-i-love-typescript-in-svelte-and-the-beauty-of-sveltekit-compared-to-other-js-frameworks/cover.jpg" />
     </item>
     
