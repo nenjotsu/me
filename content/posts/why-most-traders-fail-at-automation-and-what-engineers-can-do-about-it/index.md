@@ -39,6 +39,7 @@ You built something, sure. But it’s blind, brittle, and behaving unpredictably
 This is where most traders quit. They realize that automation isn’t as plug-and-play as it looks. What they thought was just “code + strategy = freedom” turns out to be a deeper, more complex problem. One that’s less about trading and more about **software engineering**.
 
 ---
+![landscape](cover.jpg "Photos by nenjo")
 
 ## **How Engineers Think Differently**
 

@@ -9,6 +9,7 @@ date: 2025-07-10
 draft: false
 ---
 Imagine this: you’re in the middle of an epic coding session, coffee mug half-empty, and your trading bot is spitting out errors like a grumpy cat. You scream internally, "Why did I write this tangled mess of code?!" Been there, done that. But what if I told you there’s a way to avoid this nightmare? Enter SOLID principles, your coding safety net. Let’s explore how these principles can turn your automated trading bot into a masterpiece of maintainability and scalability.
+![landscape](cover.jpg "Photos by nenjo")
 
 ## **1\. Single Responsibility Principle (SRP)**
 

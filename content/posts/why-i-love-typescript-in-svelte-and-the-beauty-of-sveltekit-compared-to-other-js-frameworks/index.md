@@ -1,6 +1,6 @@
 ---
 title: "Why I Love TypeScript in Svelte, and the Beauty of SvelteKit Compared to Other JS Frameworks"
-summary: "The combination of SvelteKit and TypeScript represents the best of both worlds — a modern framework designed for simplicity and speed, paired with a robust type system that ensures reliability and scalability."
+summary: "The combination of SvelteKit and TypeScript represents the best of both worlds that ensures reliability and scalability."
 categories: ["svelte", "front-end", "javascript", "typescript"]
 tags: ["svelte", "front-end", "javascript", "typescript"]
 #externalUrl: ""
@@ -10,6 +10,7 @@ draft: false
 ---
 
 In the fast-paced world of frontend development, Svelte has emerged as a breath of fresh air, combining simplicity with power. When paired with TypeScript, Svelte becomes an even more formidable tool, offering type safety and enhanced developer experience. Meanwhile, SvelteKit, the full-stack application framework for Svelte, outshines its counterparts like React and Vue.js in many ways. Let’s dive into why TypeScript in Svelte is a game-changer and explore the beauty of SvelteKit compared to other popular JavaScript frameworks.
+![landscape](cover.jpg "Photos by nenjo")
 
 ## **Why I Love TypeScript in Svelte**
 

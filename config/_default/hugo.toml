@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 [pagination]
-  pagerSize = 5
+  pageSize = 5
 summaryLength = 30
 
 buildDrafts = false
