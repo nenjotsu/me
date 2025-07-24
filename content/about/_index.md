@@ -23,3 +23,10 @@ I created nenjo.tech to document the stuff I wish someone had written when I sta
 If you’re a fellow dev, trader, or just someone who enjoys solving ridiculously complex problems for fun — welcome. This blog is for you.
 
 Expect code, crashes, solutions, and maybe some sarcasm — all in the name of better engineering and smarter trading.
+
+<a href="https://nowpayments.io/donation/nenjotrades" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
+</a>
+<a href="https://nowpayments.io/donation/nenjotrades" target="_blank" rel="noreferrer noopener">
+   Donate with NOWPayments
+</a>
