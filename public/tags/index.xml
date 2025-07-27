@@ -10,6 +10,46 @@
     <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Back-End</title>
+      <link>http://localhost:1313/tags/back-end/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/back-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>http://localhost:1313/tags/design-patterns/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/design-patterns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading-Bot</title>
+      <link>http://localhost:1313/tags/trading-bot/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/trading-bot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ai</title>
       <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
@@ -105,36 +145,6 @@
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/tradingbot/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Back-End</title>
-      <link>http://localhost:1313/tags/back-end/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/back-end/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Design Patterns</title>
-      <link>http://localhost:1313/tags/design-patterns/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/design-patterns/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/go/</guid>
       <description></description>
       
     </item>

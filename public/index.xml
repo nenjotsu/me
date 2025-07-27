@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Can a Trading Bot Really Beat the Market?</title>
+      <link>http://localhost:1313/posts/can-a-trading-bot-really-beat-the-market/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/can-a-trading-bot-really-beat-the-market/</guid>
+      <description>Most people think trading bots are smarter than humans. In truth, they’re not smarter. They’re just faster, more consistent, and emotionless.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/can-a-trading-bot-really-beat-the-market/cover.jpg" />
+    </item>
     
     <item>
       <title>The Danger of Using AI in Trading: Why Blind Automation Is Riskier Than You Think</title>
