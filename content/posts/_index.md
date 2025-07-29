@@ -2,6 +2,7 @@
 title: "Posts"
 date: 2025-07-14
 draft: false
+outputs: ['html','rss']
 
 showDate : false
 showDateUpdated : false

@@ -30,4 +30,5 @@ googleAnalytics = "G-4SPW2MSGKK"
   priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["html", "rss", "json"]
+  blogs = ["html", "rss", "json"]
