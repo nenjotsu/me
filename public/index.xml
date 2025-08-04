@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>5 Frustrating Problems in Manual Trading That Automation Solves</title>
+      <link>http://localhost:1313/posts/5-frustrating-problems-in-manual-trading-that-automation-solves/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/5-frustrating-problems-in-manual-trading-that-automation-solves/</guid>
+      <description>Manual trading often feels like a game of whack-a-mole — missed entries, emotional decisions, late-n&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/5-frustrating-problems-in-manual-trading-that-automation-solves/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>From Scripts to Signals: A Developer’s View of TradingView</title>
+      <link>http://localhost:1313/posts/from-scripts-to-signals-a-developers-view-of-tradingview/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/from-scripts-to-signals-a-developers-view-of-tradingview/</guid>
+      <description>From Scripts to Signals: A Developer’s View of TradingView explores how developers can unlock the tr&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/from-scripts-to-signals-a-developers-view-of-tradingview/cover.jpg" />
+    </item>
     
     <item>
       <title>What Should You Actually Calculate in Market Analysis</title>

@@ -24,6 +24,10 @@
   name = "About"
   pageRef = "about"
   weight = 30
+[[main]]
+  name = "Contact"
+  url = "https://nenjotsu.github.io/site/contact-me/"
+  weight = 35
 
 [[main]]
   # identifier = "web"

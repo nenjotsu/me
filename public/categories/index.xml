@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Developers</title>
+      <link>http://localhost:1313/categories/developers/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/developers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Manual</title>
+      <link>http://localhost:1313/categories/manual/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/manual/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading</title>
+      <link>http://localhost:1313/categories/trading/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tradingview</title>
+      <link>http://localhost:1313/categories/tradingview/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/tradingview/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Market Analysis</title>
@@ -25,16 +65,6 @@
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/math/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading</title>
-      <link>http://localhost:1313/categories/trading/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/trading/</guid>
       <description></description>
       
     </item>
