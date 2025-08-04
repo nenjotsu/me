@@ -10,21 +10,31 @@
     <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Market Analysis</title>
+      <link>http://localhost:1313/tags/market-analysis/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/market-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Backtesting</title>
-      <link>http://localhost:1313/tags/backtesting/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/backtesting/</guid>
+      <guid>http://localhost:1313/tags/math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading</title>
+      <link>http://localhost:1313/tags/trading/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/trading/</guid>
       <description></description>
       
     </item>
@@ -32,7 +42,7 @@
     <item>
       <title>Bots</title>
       <link>http://localhost:1313/tags/bots/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/bots/</guid>
       <description></description>
@@ -42,7 +52,7 @@
     <item>
       <title>Indicators</title>
       <link>http://localhost:1313/tags/indicators/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/indicators/</guid>
       <description></description>
@@ -50,91 +60,11 @@
     </item>
     
     <item>
-      <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/math/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Price</title>
       <link>http://localhost:1313/tags/price/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/price/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Strategy</title>
-      <link>http://localhost:1313/tags/strategy/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/strategy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading</title>
-      <link>http://localhost:1313/tags/trading/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/trading/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>What</title>
-      <link>http://localhost:1313/tags/what/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/what/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aiautomation</title>
-      <link>http://localhost:1313/tags/aiautomation/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/aiautomation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AutomationForProfessionals</title>
-      <link>http://localhost:1313/tags/automationforprofessionals/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/automationforprofessionals/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>N8n</title>
-      <link>http://localhost:1313/tags/n8n/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/n8n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>VirtualAssistantTips</title>
-      <link>http://localhost:1313/tags/virtualassistanttips/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/virtualassistanttips/</guid>
       <description></description>
       
     </item>
@@ -175,6 +105,76 @@
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/trading-bot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aiautomation</title>
+      <link>http://localhost:1313/tags/aiautomation/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/aiautomation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AutomationForProfessionals</title>
+      <link>http://localhost:1313/tags/automationforprofessionals/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/automationforprofessionals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>N8n</title>
+      <link>http://localhost:1313/tags/n8n/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/n8n/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VirtualAssistantTips</title>
+      <link>http://localhost:1313/tags/virtualassistanttips/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/virtualassistanttips/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backtesting</title>
+      <link>http://localhost:1313/tags/backtesting/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/backtesting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://localhost:1313/tags/strategy/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/strategy/</guid>
       <description></description>
       
     </item>
