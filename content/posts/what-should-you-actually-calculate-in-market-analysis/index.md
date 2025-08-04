@@ -1,10 +1,9 @@
 ---
 title: "What Should You Actually Calculate in Market Analysis"
-summary: "What Should You Actually Calculate in Market Analysis? (And What You Really Shouldn’t)
-Most traders ..."
-categories: ["math","what"]
-tags: ["math","what"]
-date: 2025-08-04
+summary: "Successful market analysis doesn’t come from using the most math — it comes from using the right math."
+categories: ["math","trading", "market analysis"]
+tags: ["math","trading", "market analysis"]
+date: 2025-08-01
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")

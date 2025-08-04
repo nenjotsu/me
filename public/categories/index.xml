@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backtesting</title>
+      <link>http://localhost:1313/categories/backtesting/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/backtesting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bots</title>
+      <link>http://localhost:1313/categories/bots/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/bots/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Indicators</title>
+      <link>http://localhost:1313/categories/indicators/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/indicators/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/categories/math/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Price</title>
+      <link>http://localhost:1313/categories/price/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/price/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://localhost:1313/categories/strategy/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trading</title>
+      <link>http://localhost:1313/categories/trading/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/trading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>What</title>
+      <link>http://localhost:1313/categories/what/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/what/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Aiautomation</title>
@@ -90,31 +180,11 @@
     </item>
     
     <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/categories/ai/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Algotrading</title>
       <link>http://localhost:1313/categories/algotrading/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/algotrading/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Trading</title>
-      <link>http://localhost:1313/categories/trading/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/trading/</guid>
       <description></description>
       
     </item>

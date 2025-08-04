@@ -1,11 +1,9 @@
 ---
 title: "Top 3 Programming Languages for Trading Bots (Golang vs Python vs MQL5)"
-summary: "Top 3 Programming Languages for Trading Bots (Golang vs Python vs MQL5)
-
-Top 3 Programming Languages..."
+summary: "Each language offers unique strengths and trade-offs that make them suitable for different use cases."
 categories: ["trading","bots"]
 tags: ["trading","bots"]
-date: 2025-08-04
+date: 2025-07-31
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")

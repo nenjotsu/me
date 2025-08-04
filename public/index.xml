@@ -7,16 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Why Are VAs and Solopreneurs Winning with AI While Others Struggle</title>
-      <link>http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/</link>
+      <title>What Should You Actually Calculate in Market Analysis</title>
+      <link>http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/</guid>
+      <description>Successful market analysis doesn’t come from using the most math — it comes from using the right math.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/cover.JPG" />
+    </item>
+    
+    <item>
+      <title>Top 3 Programming Languages for Trading Bots (Golang vs Python vs MQL5)</title>
+      <link>http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/</guid>
+      <description>Each language offers unique strengths and trade-offs that make them suitable for different use cases.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/cover.JPG" />
+    </item>
+    
+    <item>
+      <title>Lagging vs Leading Indicators: What They Really Tell You About the Market</title>
+      <link>http://localhost:1313/posts/lagging-vs-leading-indicators-what-they-really-tell-you-about-the-market/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/</guid>
-      <description>Use AI tools smartly to automate tasks, boost productivity, and reclaim your time.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/cover.jpg" />
+      <guid>http://localhost:1313/posts/lagging-vs-leading-indicators-what-they-really-tell-you-about-the-market/</guid>
+      <description>To trade with clarity, you need to know the difference between indicators that react to price (lagging), and those that aim to anticipate it (leading).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lagging-vs-leading-indicators-what-they-really-tell-you-about-the-market/cover.JPG" />
     </item>
     
     <item>
@@ -27,6 +47,36 @@
       <guid>http://localhost:1313/posts/can-a-trading-bot-really-beat-the-market/</guid>
       <description>Most people think trading bots are smarter than humans. In truth, they’re not smarter. They’re just faster, more consistent, and emotionless.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/can-a-trading-bot-really-beat-the-market/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>How to Use AI in Trading Without Losing Control</title>
+      <link>http://localhost:1313/posts/how-to-use-ai-in-trading-without-losing-control/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-to-use-ai-in-trading-without-losing-control/</guid>
+      <description>In trading, the moment you lose connection with your system, you lose control over your performance&amp;hellip;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-use-ai-in-trading-without-losing-control/cover.JPG" />
+    </item>
+    
+    <item>
+      <title>Why Are VAs and Solopreneurs Winning with AI While Others Struggle</title>
+      <link>http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/</guid>
+      <description>Use AI tools smartly to automate tasks, boost productivity, and reclaim your time.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/why-are-vas-and-solopreneurs-winning-with-ai-while-others-struggle/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>How I Backtested My Strategy (And What Actually Made It Work)</title>
+      <link>http://localhost:1313/posts/how-i-backtested-my-strategy-and-what-actually-made-it-work/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-i-backtested-my-strategy-and-what-actually-made-it-work/</guid>
+      <description>You can’t just look at a result and trust it. You need to feel the trades. See how they play out. Know how the system behaves when the market gets weird.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-i-backtested-my-strategy-and-what-actually-made-it-work/cover.JPG" />
     </item>
     
     <item>

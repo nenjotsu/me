@@ -1,15 +1,13 @@
 ---
-title: "Drafts: How to Use AI in Trading Without Losing Control"
-summary: "How to Use AI in Trading Without Losing Control
-
-The Temptat..."
+title: "How to Use AI in Trading Without Losing Control"
+summary: "In trading, the moment you lose connection with your system, you lose control over your performance..."
 categories: ["ai","trading"]
 tags: ["ai","trading"]
-date: 2025-08-04
+date: 2025-07-23
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")
-# Drafts: How to Use AI in Trading Without Losing Control
+# How to Use AI in Trading Without Losing Control
 
 ## The Temptation to Let AI Do It All
 

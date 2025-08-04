@@ -1,16 +1,15 @@
 ---
 title: "How I Backtested My Strategy (And What Actually Made It Work)"
-summary: "How I Backtested My Strategy (And What Actually Made It Work)
-The Setup: Building a Strategy Is One ..."
-categories: ["strategy","how"]
-tags: ["strategy","how"]
-date: 2025-08-04
+summary: "You can’t just look at a result and trust it. You need to feel the trades. See how they play out. Know how the system behaves when the market gets weird."
+categories: ["strategy","backtesting"]
+tags: ["strategy","backtesting"]
+date: 2025-07-19
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")
 # How I Backtested My Strategy (And What Actually Made It Work)
 
-## The Setup: Building a Strategy Is One Thing — Trusting It Is Another
+## Building a Strategy Is One Thing — Trusting It Is Another
 
 Like many traders, I started out doing what felt logical: I built a strategy on TradingView, added some indicators, and threw it into a backtesting tool to see how it would perform.  
 At first glance, it looked promising. Solid win rates. Clean entries. High returns.  
@@ -18,7 +17,7 @@ But deep down, I wasn’t convinced. There was a voice in the back of my mind sa
 That’s when I realized that backtesting alone doesn’t equal confidence. You can’t just look at a result and trust it. You need to feel the trades. See how they play out. Know how the system behaves when the market gets weird.  
 So I kept testing. And more importantly — I changed how I tested.
 
-## The Conflict: Backtesting Tools Were Not Enough
+## Backtesting Tools Were Not Enough
 
 I started with common backtesting services. The kind where you plug in your logic, pick a timeframe, hit run, and get a report. It’s fast. It’s efficient. But it also hides the details that matter.  
 You don’t see the actual setups as they form. You don’t feel the hesitation when price hovers around your entry. You don’t see if the stop loss would realistically hold — or if it would get wicked out. You just get an output.  
@@ -30,7 +29,7 @@ I also paper-traded live, letting my system send alerts or signals, and logging 
 Suddenly, I saw where entries were too aggressive. Where false signals appeared. Where my setup worked beautifully — and where it needed adjustments.  
 This wasn’t just testing anymore. It was refining. It was real.
 
-## The Resolution: What Actually Gave Me Confidence
+## What Actually Gave Me Confidence
 
 Once I combined structured backtesting, manual replay testing, and real-time paper execution, things started to click.  
 I stopped chasing new systems. I stopped doubting every trade. I started trusting the logic — because I had watched it succeed and fail, over and over, with full transparency.  
