@@ -1,10 +1,8 @@
 ---
 title: "Agent-to-Agent Communication: Letting LLMs Collaborate Without Losing Context"
-summary: "**Blog Title:** Agent-to-Agent Communication: Letting LLMs Collaborate Without Losing Context
-
-**Dat..."
-categories: ["context","communication"]
-tags: ["context","communication"]
+summary: "Reference past interactions, maintain shared knowledge bases, or coordinate multi-step tasks"
+categories: ["context engineering","communication"]
+tags: ["context engineering","communication"]
 date: 2025-08-05
 draft: false
 ---

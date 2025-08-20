@@ -7,7 +7,147 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/categories/ai/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rag</title>
+      <link>http://localhost:1313/categories/rag/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agent</title>
+      <link>http://localhost:1313/categories/agent/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Building</title>
+      <link>http://localhost:1313/categories/building/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/building/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Langchain</title>
+      <link>http://localhost:1313/categories/langchain/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/langchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:1313/categories/databases/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/databases/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>http://localhost:1313/categories/vector/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agents</title>
+      <link>http://localhost:1313/categories/agents/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/categories/communication/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Context</title>
+      <link>http://localhost:1313/categories/context/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/context/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/categories/learning/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mcp</title>
+      <link>http://localhost:1313/categories/mcp/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mcp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Multiagent</title>
+      <link>http://localhost:1313/categories/multiagent/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/multiagent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reasoning</title>
+      <link>http://localhost:1313/categories/reasoning/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/reasoning/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Developers</title>
@@ -135,16 +275,6 @@
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/trading-bot/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/categories/ai/</link>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/ai/</guid>
       <description></description>
       
     </item>

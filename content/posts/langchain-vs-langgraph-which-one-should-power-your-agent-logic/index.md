@@ -1,16 +1,13 @@
 ---
 title: "LangChain vs LangGraph: Which One Should Power Your Agent Logic?"
-summary: "**Blog Title:** LangChain vs LangGraph: Which One Should Power Your Agent Logic?
-
-**Database List En..."
-categories: ["agent","langchain"]
-tags: ["agent","langchain"]
+summary: "Both frameworks offer robust solutions for creating intelligent AI agents, but they approach agent logic differently."
+categories: ["agent","langchain", "langgraph", "ai"]
+tags: ["agent","langchain", "langgraph", "ai"]
 date: 2025-08-10
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")
 **LangChain vs LangGraph: Which One Should Power Your Agent Logic?**
-=============================================================
 
 **Overview of the Debate**
 ------------------------

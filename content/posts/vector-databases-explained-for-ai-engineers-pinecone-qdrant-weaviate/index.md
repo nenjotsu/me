@@ -1,41 +1,17 @@
 ---
 title: "Vector Databases Explained for AI Engineers (Pinecone, Qdrant, Weaviate)"
-summary: "**Blog Title:** Vector Databases Explained for AI Engineers (Pinecone, Qdrant, Weaviate)
-
-**Database..."
+summary: "In this comprehensive guide, we'll delve into the world of vector databases, exploring three major platforms: Pinecone, Qdrant, and Weaviate."
 categories: ["vector","databases"]
 tags: ["vector","databases"]
 date: 2025-08-07
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")
-**Vector Databases Explained for AI Engineers (Pinecone, Qdrant, Weaviate)**
-============================================================
-
-Table of Contents
------------------
-
-* [Introduction](#introduction)
-* [Pinecone: A Vector Database for Scalable Search](#pinecone-a-vector-database-for-scalable-search)
-	+ [How It Works](#how-it-works)
-	+ [Features and Performance Characteristics](#features-and-performance-characteristics)
-	+ [Use Cases in Machine Learning Applications](#use-cases-in-machine-learning-applications)
-* [Qdrant: A Vector Database for AI-Powered Features](#qdrant-a-vector-database-for-ai-powered-features)
-	+ [Indexing Strategies and Data Types](#indexing-strategies-and-data-types)
-	+ [Scalability Considerations and Performance Optimizations](#scalability-considerations-and-performance-optimizations)
-	+ [Use Cases in Recommendation Systems and Semantic Search](#use-cases-in-recommendation-systems-and-semantic-search)
-* [Weaviate: A Vector Database for AI and Machine Learning Applications](#weaviate-a-vector-database-for-ai-and-machine-learning-applications)
-	+ [Data Modeling and Schema Design](#data-modeling-and-schema-design)
-	+ [Security Features and Authentication Methods](#security-features-and-authentication-methods)
-	+ [Use Cases in Natural Language Processing and Computer Vision Applications](#use-cases-in-natural-language-processing-and-computer-vision-applications)
-
 **Introduction**
----------------
 
 Vector databases are designed to efficiently store, manage, and query large datasets of vectors, which are used extensively in machine learning applications. In this comprehensive guide, we'll delve into the world of vector databases, exploring three major platforms: Pinecone, Qdrant, and Weaviate.
 
 **Pinecone: A Vector Database for Scalable Search**
------------------------------------------------
 
 ### How It Works
 

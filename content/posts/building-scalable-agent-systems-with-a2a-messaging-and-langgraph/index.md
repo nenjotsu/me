@@ -1,9 +1,6 @@
 ---
 title: "Building Scalable Agent Systems with A2A Messaging and LangGraph"
-summary: "**Blog Title Saved:**
-Building Scalable Agent Systems with A2A Messaging and LangGraph
-
-**Short Desc..."
+summary: "Using Agent-to-Agent (A2A) messaging protocols combined with LangGraph architecture"
 categories: ["agent","building"]
 tags: ["agent","building"]
 date: 2025-08-11

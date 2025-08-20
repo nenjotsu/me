@@ -1,10 +1,8 @@
 ---
 title: "LangGraph Deep Dive: Orchestrating Agent Reasoning, Memory, and Tasks"
-summary: "**Blog Title:** LangGraph Deep Dive: Orchestrating Agent Reasoning, Memory, and Tasks
-
-**Database Li..."
-categories: ["agent","reasoning"]
-tags: ["agent","reasoning"]
+summary: "LangGraph represents a sophisticated framework for managing complex agent workflows by providing a structured approach to orchestrating multiple reasoning processes."
+categories: ["agent","langgraph"]
+tags: ["agent","langgraph"]
 date: 2025-08-05
 draft: false
 ---

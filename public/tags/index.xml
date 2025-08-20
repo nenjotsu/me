@@ -10,6 +10,176 @@
     <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rag</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/tags/software-engineering/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prompt-Engineering</title>
+      <link>http://localhost:1313/tags/prompt-engineering/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/prompt-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agent</title>
+      <link>http://localhost:1313/tags/agent/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Building</title>
+      <link>http://localhost:1313/tags/building/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/building/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Langchain</title>
+      <link>http://localhost:1313/tags/langchain/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/langchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Langgraph</title>
+      <link>http://localhost:1313/tags/langgraph/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/langgraph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:1313/tags/databases/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/databases/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>http://localhost:1313/tags/vector/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agents</title>
+      <link>http://localhost:1313/tags/agents/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/tags/communication/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/communication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Context</title>
+      <link>http://localhost:1313/tags/context/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/context/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mcp</title>
+      <link>http://localhost:1313/tags/mcp/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mcp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Multiagent</title>
+      <link>http://localhost:1313/tags/multiagent/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/multiagent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Developers</title>
       <link>http://localhost:1313/tags/developers/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
@@ -25,6 +195,16 @@
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/manual/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pinescript</title>
+      <link>http://localhost:1313/tags/pinescript/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pinescript/</guid>
       <description></description>
       
     </item>
@@ -140,16 +320,6 @@
     </item>
     
     <item>
-      <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Aiautomation</title>
       <link>http://localhost:1313/tags/aiautomation/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
@@ -260,26 +430,6 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>http://localhost:1313/tags/software-engineering/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/software-engineering/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Tradingbot</title>
       <link>http://localhost:1313/tags/tradingbot/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
@@ -325,6 +475,26 @@
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/typescript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reasoning</title>
+      <link>http://localhost:1313/tags/reasoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/reasoning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineerin</title>
+      <link>http://localhost:1313/tags/software-engineerin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-engineerin/</guid>
       <description></description>
       
     </item>

@@ -1,10 +1,6 @@
 ---
 title: "LangChain vs LangGraph: Which One Powers Smarter AI Workflows?"
-summary: "## Blog Title Database
-
-**Title:** LangChain vs LangGraph: Which One Powers Smarter AI Workflows?
-
-#..."
+summary: "LangChain and LangGraph represent two distinct approaches to building intelligent AI workflows."
 categories: ["ai","langchain"]
 tags: ["ai","langchain"]
 date: 2025-08-05

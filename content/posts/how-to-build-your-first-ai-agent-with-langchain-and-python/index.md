@@ -1,10 +1,6 @@
 ---
 title: "How to Build Your First AI Agent with LangChain and Python"
-summary: "## Blog Title Database
-
-**Title:** How to Build Your First AI Agent with LangChain and Python
-
-## Sh..."
+summary: "Create a more sophisticated tool that can perform actual web searches"
 categories: ["ai","agent"]
 tags: ["ai","agent"]
 date: 2025-08-05

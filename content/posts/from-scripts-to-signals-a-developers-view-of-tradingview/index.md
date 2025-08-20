@@ -1,8 +1,8 @@
 ---
 title: "From Scripts to Signals: A Developer’s View of TradingView"
-summary: "From Scripts to Signals: A Developer’s View of TradingView explores how developers can unlock the tr..."
-categories: ["tradingview","developers"]
-tags: ["tradingview","developers"]
+summary: "Pine Script allows you to build logic that interprets market conditions and generates actionable signals."
+categories: ["tradingview","developers", "pinescript"]
+tags: ["tradingview","developers", "pinescript"]
 date: 2025-08-04
 draft: false
 ---

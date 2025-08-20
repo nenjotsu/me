@@ -1,16 +1,12 @@
 ---
 title: "Stop Hallucinations: Feed Real Data into Your AI Agent with RAG"
-summary: "**Blog Title:** Stop Hallucinations: Feed Real Data into Your AI Agent with RAG
-
-**Database List Ent..."
+summary: "RAG is a technique that combines the strengths of both natural language processing (NLP) and information retrieval."
 categories: ["ai","rag"]
 tags: ["ai","rag"]
 date: 2025-08-14
 draft: false
 ---
 ![landscape](cover.jpg "Photos by nenjo")
-**Stop Hallucinations: Feed Real Data into Your AI Agent with RAG**
-===========================================================
 
 ### Introduction
 

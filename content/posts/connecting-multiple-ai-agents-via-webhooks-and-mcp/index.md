@@ -1,9 +1,6 @@
 ---
 title: "Connecting Multiple AI Agents via Webhooks and MCP"
-summary: "**Blog Title:** Connecting Multiple AI Agents via Webhooks and MCP
-
-**Database List Entry:**
-- Conne..."
+summary: "Integrate webhooks with the Model Context Protocol (MCP) to enable effective collaboration among diverse AI systems"
 categories: ["ai","agents"]
 tags: ["ai","agents"]
 date: 2025-08-06

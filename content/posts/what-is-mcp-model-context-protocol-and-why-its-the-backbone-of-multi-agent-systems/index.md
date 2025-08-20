@@ -1,6 +1,6 @@
 ---
 title: "What Is MCP (Model Context Protocol) and Why It’s the Backbone of Multi-Agent Systems"
-summary: "**Blog Title:** What Is MCP (Model Context Protocol) and Why It's the Backbone of Multi-Agent System..."
+summary: "At its core, MCP provides a standardized framework that allows autonomous agents to share context, exchange information, and collaborate on complex tasks while maintaining their individual autonomy."
 categories: ["mcp","multiagent"]
 tags: ["mcp","multiagent"]
 date: 2025-08-05

@@ -17,6 +17,7 @@ But deep down, I wasn’t convinced. There was a voice in the back of my mind sa
 That’s when I realized that backtesting alone doesn’t equal confidence. You can’t just look at a result and trust it. You need to feel the trades. See how they play out. Know how the system behaves when the market gets weird.  
 So I kept testing. And more importantly — I changed how I tested.
 
+
 ## Backtesting Tools Were Not Enough
 
 I started with common backtesting services. The kind where you plug in your logic, pick a timeframe, hit run, and get a report. It’s fast. It’s efficient. But it also hides the details that matter.  
