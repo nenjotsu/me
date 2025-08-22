@@ -45,6 +45,54 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/categories/python/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/python-gotchas-the-quirks-that-might-break-your-code-and-your-brain/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/software-engineering/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/prompt-engineering/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/prompt-engineering/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/your-roadmap-to-mastering-prompt-engineering/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/categories/agent/</loc>
     <lastmod>2025-08-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -88,6 +136,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/langchain-vs-langgraph-which-one-should-power-your-agent-logic/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/langgraph/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/langgraph/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -159,13 +219,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/context/</loc>
+    <loc>http://localhost:1313/categories/context-engineering/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/context/</loc>
+    <loc>http://localhost:1313/tags/context-engineering/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -237,18 +297,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/reasoning/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/reasoning/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/what-is-mcp-model-context-protocol-and-why-its-the-backbone-of-multi-agent-systems/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -286,6 +334,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/manual/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/pinescript/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/pinescript/</loc>
     <lastmod>2025-08-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -616,30 +676,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/mt5/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/python/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/software-engineering/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/software-engineering/</loc>
     <lastmod>2025-07-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
