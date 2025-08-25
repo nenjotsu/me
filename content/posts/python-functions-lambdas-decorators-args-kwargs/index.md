@@ -15,7 +15,7 @@ Today, we’ll explore three of Python’s most powerful (and sometimes misunder
 
 1. Lambda functions (anonymous functions)
 2. Decorators (functions that modify other functions)
-3. *args and **kwargs (flexible arguments)
+3. `*args` and `**kwargs` (flexible arguments)
 
 We’ll unravel not only how to use them, but why they matter, and the subtle gotchas you need to know.
 
@@ -42,7 +42,7 @@ print(square_lambda(5))  # Output: 25
 **Why use Lambdas?**
 - Great for short-lived functions (e.g., sorting keys, mapping, filtering).
 - Keep code concise where verbosity isn’t necessary.
-- Pair beautifully with functional tools like map, filter, and reduce.
+- Pair beautifully with functional tools like `map`, `filter`, and `reduce`.
 
 Example:
 ```python
@@ -89,7 +89,7 @@ Hello!
 After the function runs
 ```
 
-> Commentary: The @my_decorator syntax is just shorthand for greet = my_decorator(greet). Python syntactic sugar makes this pattern elegant.
+> Commentary: The `@my_decorator` syntax is just shorthand for `greet = my_decorator(greet)`. Python syntactic sugar makes this pattern elegant.
 
 **Why use Decorators?**
 
@@ -225,13 +225,13 @@ Explanation:
 
 - Don’t abuse lambdas: Use them for simple, one-line functions. Beyond that, define proper functions for readability.
 
-- Be careful with decorators: They can obscure the original function signature. Use functools.wraps to preserve metadata.
+- Be careful with decorators: They can obscure the original function signature. Use `functools.wraps` to preserve metadata.
 
 - Watch argument order: When combining arguments, order must be:
-def func(positional, *args, keyword, **kwargs)
+`def func(positional, *args, keyword, **kwargs)`
 
 ## Conclusion
 
-Python functions are far more than def statements. With lambdas, decorators, and flexible arguments, you gain tools for writing concise, adaptable, and reusable code. These features unlock functional programming patterns that make your Python projects elegant and powerful.
+Python functions are far more than `def` statements. With lambdas, decorators, and flexible arguments, you gain tools for writing concise, adaptable, and reusable code. These features unlock functional programming patterns that make your Python projects elegant and powerful.
 
 Mastering them gives you a significant edge, whether you’re optimizing data pipelines, building APIs, or writing algorithms.
