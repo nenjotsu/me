@@ -480,6 +480,76 @@
     </item>
     
     <item>
+      <title>ArgsKwargs</title>
+      <link>http://localhost:1313/tags/argskwargs/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/argskwargs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CodingTips</title>
+      <link>http://localhost:1313/tags/codingtips/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/codingtips/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decorators</title>
+      <link>http://localhost:1313/tags/decorators/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/decorators/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>http://localhost:1313/tags/functions/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/functions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lambdas</title>
+      <link>http://localhost:1313/tags/lambdas/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/lambdas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SoftwareEngineering</title>
+      <link>http://localhost:1313/tags/softwareengineering/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/softwareengineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>CodingBestPractices</title>
       <link>http://localhost:1313/tags/codingbestpractices/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
@@ -500,16 +570,6 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>PythonTips</title>
       <link>http://localhost:1313/tags/pythontips/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
@@ -520,11 +580,51 @@
     </item>
     
     <item>
-      <title>SoftwareEngineering</title>
-      <link>http://localhost:1313/tags/softwareengineering/</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <title>DataAnalysis</title>
+      <link>http://localhost:1313/tags/dataanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/softwareengineering/</guid>
+      <guid>http://localhost:1313/tags/dataanalysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DataScience</title>
+      <link>http://localhost:1313/tags/datascience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/datascience/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jupyter</title>
+      <link>http://localhost:1313/tags/jupyter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jupyter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JupyterNotebook</title>
+      <link>http://localhost:1313/tags/jupyternotebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jupyternotebook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MachineLearning</title>
+      <link>http://localhost:1313/tags/machinelearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/machinelearning/</guid>
       <description></description>
       
     </item>

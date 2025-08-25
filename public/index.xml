@@ -280,6 +280,16 @@
     </item>
     
     <item>
+      <title>Python Functions Demystified: Lambdas, Decorators, and the Magic of *args / **kwargs</title>
+      <link>http://localhost:1313/posts/python-functions-lambdas-decorators-args-kwargs/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/python-functions-lambdas-decorators-args-kwargs/</guid>
+      <description>A deep dive into Python’s most versatile function features—lambdas, decorators, and flexible arguments—explained with practical examples and commentary.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/python-functions-lambdas-decorators-args-kwargs/cover.jpg" />
+    </item>
+    
+    <item>
       <title>Python Data Structures: The Essential Guide to Lists, Dicts, Sets, Tuples, Deques, and Heapq</title>
       <link>http://localhost:1313/posts/python-data-structures-list-dict-set-tuple-deque-heapq/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
