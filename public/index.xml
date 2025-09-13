@@ -176,7 +176,7 @@
       
       <guid>http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/</guid>
       <description>Successful market analysis doesn’t come from using the most math — it comes from using the right math.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/cover.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/what-should-you-actually-calculate-in-market-analysis/cover.jpg" />
     </item>
     
     <item>
@@ -186,7 +186,7 @@
       
       <guid>http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/</guid>
       <description>Each language offers unique strengths and trade-offs that make them suitable for different use cases.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/cover.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/top-3-programming-languages-for-trading-bots-golang-vs-python-vs-mql5/cover.jpg" />
     </item>
     
     <item>
@@ -297,16 +297,6 @@
       <guid>http://localhost:1313/posts/python-data-structures-list-dict-set-tuple-deque-heapq/</guid>
       <description>Master Python’s core data structures - list, dict, set, tuple, deque, and heapq—to write cleaner, more efficient, and scalable code.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/python-data-structures-list-dict-set-tuple-deque-heapq/cover.jpg" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/python-pandas-gotchas-every-developer-should-know/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/python-pandas-gotchas-every-developer-should-know/</guid>
-      <description></description>
-      
     </item>
     
   </channel>

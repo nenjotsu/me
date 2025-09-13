@@ -7,67 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 nenjo.tech</copyright>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>CodingBestPractices</title>
-      <link>http://localhost:1313/categories/codingbestpractices/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/codingbestpractices/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DataStructures</title>
-      <link>http://localhost:1313/categories/datastructures/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/datastructures/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/categories/programming/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/categories/python/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PythonTips</title>
-      <link>http://localhost:1313/categories/pythontips/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/pythontips/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SoftwareEngineering</title>
-      <link>http://localhost:1313/categories/softwareengineering/</link>
-      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/softwareengineering/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ai</title>
@@ -85,6 +25,16 @@
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/categories/python/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/python/</guid>
       <description></description>
       
     </item>
@@ -525,6 +475,106 @@
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/typescript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ArgsKwargs</title>
+      <link>http://localhost:1313/categories/argskwargs/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/argskwargs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CodingTips</title>
+      <link>http://localhost:1313/categories/codingtips/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/codingtips/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decorators</title>
+      <link>http://localhost:1313/categories/decorators/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/decorators/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>http://localhost:1313/categories/functions/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/functions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lambdas</title>
+      <link>http://localhost:1313/categories/lambdas/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/lambdas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/categories/programming/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SoftwareEngineering</title>
+      <link>http://localhost:1313/categories/softwareengineering/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/softwareengineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CodingBestPractices</title>
+      <link>http://localhost:1313/categories/codingbestpractices/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/codingbestpractices/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DataStructures</title>
+      <link>http://localhost:1313/categories/datastructures/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/datastructures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PythonTips</title>
+      <link>http://localhost:1313/categories/pythontips/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/pythontips/</guid>
       <description></description>
       
     </item>

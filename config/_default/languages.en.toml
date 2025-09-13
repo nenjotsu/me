@@ -15,8 +15,8 @@ title = "nenjo.tech"
 [params.author]
   name = "nenjo.tech"
   image = "img/nenjotech-logo.png"
-  headline = "\"Automating trades in Go, because clicking buttons manually isn’t a strategy.\""
-  bio = "I’m a developer specializing in trading and AI automation — helping traders turn ideas into Pine Script, Python, or Go bots with smart, production-ready workflows."
+  headline = "\"Automating trades in mql5, python, and Go, because clicking buttons manually is not for me.\""
+  bio = "I’m a developer specializing in trading and AI automation — helping traders turn ideas into Expert Advisor, Pine Script, Python, or Go bots with smart, production-ready workflows."
    links = [
      { link = "https://nenjotsu.github.io/site/" },
      { github = "https://github.com/nenjotsu" },

@@ -579,55 +579,5 @@
       
     </item>
     
-    <item>
-      <title>DataAnalysis</title>
-      <link>http://localhost:1313/tags/dataanalysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/dataanalysis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DataScience</title>
-      <link>http://localhost:1313/tags/datascience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/datascience/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Jupyter</title>
-      <link>http://localhost:1313/tags/jupyter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/jupyter/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>JupyterNotebook</title>
-      <link>http://localhost:1313/tags/jupyternotebook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/jupyternotebook/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MachineLearning</title>
-      <link>http://localhost:1313/tags/machinelearning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/machinelearning/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>
